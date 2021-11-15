@@ -1,0 +1,7 @@
+﻿  Conditioner.cpp
+  ConsoleApplication5.cpp
+  Создание кода...
+C:\Users\b0nd7\source\repos\ConsoleApplication2\ConsoleApplication5\ConsoleApplication5.cpp(39): warning C4715: modeChecker_main: значение возвращается не при всех путях выполнения
+C:\Users\b0nd7\source\repos\ConsoleApplication2\ConsoleApplication5\ConsoleApplication5.cpp(89): warning C4715: modeFunc: значение возвращается не при всех путях выполнения
+C:\Users\b0nd7\source\repos\ConsoleApplication2\ConsoleApplication5\Conditioner.cpp(60): warning C4715: Conditioner::modeChecker: значение возвращается не при всех путях выполнения
+  ConsoleApplication5.vcxproj -> C:\Users\b0nd7\source\repos\ConsoleApplication2\Debug\ConsoleApplication5.exe
