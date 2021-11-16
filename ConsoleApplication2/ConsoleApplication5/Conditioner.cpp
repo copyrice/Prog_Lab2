@@ -11,6 +11,9 @@ Conditioner::Conditioner(string firm, string model, double weight, int year) :
 	temp_(0), firm_(firm), model_(model), weight_(weight), year_(year)
 {
 }
+
+Conditioner::~Conditioner()
+{}
 void Conditioner::setModel(const string& model)
 {
 	model_ = model;

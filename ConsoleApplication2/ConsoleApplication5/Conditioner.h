@@ -4,6 +4,7 @@ using namespace std;
 class Conditioner
 {
 public:
+	~Conditioner();
 	Conditioner(); // конструктор
 	Conditioner(string firm, string model , double weight, int year); // конструктор с параметрами
 	void setFirm(const string& firm); // сеттеры
